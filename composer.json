@@ -1,6 +1,6 @@
 {
-    "name": "camroncade/timezone",
-    "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones.",
+    "name": "camroncade/timezone-fixed",
+    "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones. Fixed ambiguous timezones.",
     "homepage": "http://www.camroncade.com/managing-timezones-with-laravel/",
     "keybords": ["timezone", "timezones"],
     "license": "MIT",
@@ -8,6 +8,9 @@
         {
             "name": "Camron Cade",
             "email": "camron@camroncade.com"
+        },
+        {
+            "name": "smeyerSL"
         }
     ],
     "require": {
